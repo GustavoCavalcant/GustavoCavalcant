@@ -1,7 +1,8 @@
 ### Olá, seja bem vindo(a) ao meu perfil do Github! 👋
 
-- Meu nome é Gustavo Cavalcante, tenho 22 anos e moro na Zona Leste da capital de São Paulo.
-✌️ Apaixonado por tudo que envolva tecnologia, sempre procuro me atualizar e buscar novos conhecimentos na área ✌️
+   Meu nome é Gustavo Cavalcante, tenho 22 anos e moro na Zona Leste da capital de São Paulo.
+ Apaixonado por tudo que envolva tecnologia, sempre procuro me atualizar e buscar novos conhecimentos na área ✌️
+ Entre em contato: ![LinkedIn](https://www.linkedin.com/in/gustavo-cavalcante-ferreira-2a172b1a0/)
 
    
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocavalcant&layout=compact&theme=tokyonight)
