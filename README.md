@@ -1,13 +1,13 @@
 ### Olá, seja bem vindo(a) ao meu perfil do Github! 👋
 
    Meu nome é Gustavo Cavalcante, tenho 22 anos e moro na Zona Leste da capital de São Paulo.
- Apaixonado por tudo que envolva tecnologia, sempre procuro me atualizar e buscar novos conhecimentos na área ✌️
- Entre em contato: ![LinkedIn](https://www.linkedin.com/in/gustavo-cavalcante-ferreira-2a172b1a0/)
+ Apaixonado por tudo que envolva tecnologia, sempre procuro me atualizar e buscar novos conhecimentos na área.
+ Entre em contato:
 
    
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocavalcant&layout=compact&theme=tokyonight)
    
-   [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-cavalcante-ferreira-2a172b1a0/)](https://www.linkedin.com/in/gustavo-cavalcante-ferreira-2a172b1a0/)
+   ####Entre em contato: [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-cavalcante-ferreira-2a172b1a0/)](https://www.linkedin.com/in/gustavo-cavalcante-ferreira-2a172b1a0/)
    
 
 <!--
