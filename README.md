@@ -7,7 +7,7 @@
    
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocavalcant&layout=compact&theme=tokyonight)
    
-   ####Entre em contato: [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-cavalcante-ferreira-2a172b1a0/)](https://www.linkedin.com/in/gustavo-cavalcante-ferreira-2a172b1a0/)
+   ### Entre em contato: [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-cavalcante-ferreira-2a172b1a0/)](https://www.linkedin.com/in/gustavo-cavalcante-ferreira-2a172b1a0/)
    
 
 <!--
