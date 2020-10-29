@@ -4,7 +4,7 @@
 ✌️ Apaixonado por tudo que envolva tecnologia, sempre procuro me atualizar e buscar novos conhecimentos na área ✌️
 
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocavalcant&layout=compact&theme=tokyonight)]
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocavalcant&layout=compact&theme=tokyonight)
    
    
    
