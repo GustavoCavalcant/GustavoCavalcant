@@ -1,4 +1,4 @@
-### Olá, seja bem vindo(a) ao meu perfil do Github! 👋
+### Olá, seja bem vindo(a) ao meu perfil! 👋
 
    Meu nome é Gustavo Cavalcante, tenho 22 anos e moro na Zona Leste São Paulo. Sou apaixonado por tudo que envolva tecnologia, sempre procuro me atualizar e buscar novos conhecimentos na área.
    
