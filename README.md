@@ -1,12 +1,12 @@
 #   Olá, seja bem vindo(a) ao meu perfil! 👋
 
- ###  Meu nome é Gustavo Cavalcante, tenho 23 anos e moro na Zona Leste São Paulo. 
+ ####  Meu nome é Gustavo Cavalcante, tenho 23 anos e moro na Zona Leste São Paulo. 
    
-###   Acabo de me formar em Programação Full Stack – Recode Pro | Mar/2021.
+####   Acabo de me formar em Programação Full Stack – Recode Pro | Mar/2021.
 
-###   Atualmente estou em formação em Análise e Desenvolvimento de Sistemas, pois acredito que irá ajudar na minha capacitação e a consolidar alguns conceitos muito importantes na      área de programação.
+####   Atualmente estou em formação em Análise e Desenvolvimento de Sistemas, pois acredito que irá ajudar na minha capacitação e a consolidar alguns conceitos muito importantes na      área de programação.
 
-###   Pretendo me especializar em desenvolvimento de software, mas sempre em busca de novos desafios. Sou autodidata, organizado, compromissado e muito determinado.
+####   Pretendo me especializar em desenvolvimento de software, mas sempre em busca de novos desafios. Sou autodidata, organizado, compromissado e muito determinado.
    
 
 
