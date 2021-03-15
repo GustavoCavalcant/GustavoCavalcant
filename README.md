@@ -6,7 +6,7 @@
 
    Atualmente estou em formação em Análise e Desenvolvimento de Sistemas, pois acredito que irá ajudar na minha capacitação e a consolidar alguns conceitos muito importantes na      área de programação.
 
-   Pretendo me especializar em desenvolvimento de software, mas sempre em busca de novos desafios. Sou autodidata, organizado, compromissado e muito determinado.
+   Pretendo me especializar em desenvolvimento web, mas sempre em busca de novos desafios e melhores resultados. Sou autodidata, organizado, compromissado e muito determinado.
    
 
 
