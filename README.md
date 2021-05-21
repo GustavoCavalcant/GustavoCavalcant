@@ -5,6 +5,8 @@
    Acabo de me formar em Programação Full Stack – Recode Pro | Mar/2021.
 
    Atualmente estou em formação em Análise e Desenvolvimento de Sistemas, pois acredito que irá ajudar na minha capacitação e a consolidar alguns conceitos muito importantes na      área de programação.
+   
+   Estou também participando do Bootcamp Itaú - Trilha de Java. Bootcamp com duração de 1 mês, que ensina desde os primórdios do Java até a criação de API’s, tendo o Spring como      framework.
 
    Pretendo me especializar em desenvolvimento web, mas sempre em busca de novos desafios e dos melhores resultados. Sou autodidata, organizado, compromissado e muito determinado.
    
