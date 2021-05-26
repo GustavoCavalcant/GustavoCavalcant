@@ -1,6 +1,6 @@
 ##   Olá, seja bem vindo(a) ao meu perfil! 👋
 
-   Meu nome é Gustavo Cavalcante, tenho 23 anos e moro na Zona Leste São Paulo. 
+   Meu nome é Gustavo Cavalcante, tenho 23 anos e moro na Capital de São Paulo, Zona Leste. 
    
    Acabo de me formar em Programação Full Stack – Recode Pro | Mar/2021.
 
