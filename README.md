@@ -12,8 +12,10 @@
 
 
 
+
+
    
-   <!- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocavalcant&layout=compact&theme=tokyonight) -->
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocavalcant&layout=compact&theme=tokyonight) 
    
 
    ### Contato: [Linkedin](https://www.linkedin.com/in/gustavo-cavalcante-ferreira-2a172b1a0/)
