@@ -20,11 +20,7 @@ Trabalho na evolução de serviços e microsserviços que garantem governança, 
 
 - Engenharia de Software
 - Cloud & Sistemas Distribuídos
-- Inteligência Artificial aplicada ao Desenvolvimento de Software  
-  - LLMs  
-  - Arquitetura orientada a IA  
-  - Engenharia de contexto  
-  - Automação para produtividade em engenharia  
+- IA Agêntica — design e construção de agentes para automação e sistemas end-to-end
 
 ---
 
