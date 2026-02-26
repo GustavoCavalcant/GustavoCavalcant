@@ -1,4 +1,4 @@
-###👋 Gustavo Cavalcante
+### 👋 Gustavo Cavalcante
 
 💻 Software Engineer @ Itaú
 ☁️ Python | AWS | Microsserviços | Observabilidade
