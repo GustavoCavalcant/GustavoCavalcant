@@ -11,7 +11,7 @@ Engenheiro de Software Pleno no Itaú, atuando na plataforma de catálogo de dad
 
 Trabalho na evolução de serviços e microsserviços que garantem governança, segurança, integridade e confiabilidade de dados, sustentando decisões estratégicas em um ambiente de alta complexidade.
 
-🎓 MBA em Engenharia de Software — FIAP (2026 - 2027)
+🎓 MBA em Engenharia de Software — FIAP (2026 - 2027)  
 🎓 Análise e Desenvolvimento de Sistemas — Faculdade Impacta (2021 - 2023)  
 
 ---
